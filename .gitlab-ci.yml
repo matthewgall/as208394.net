@@ -3,6 +3,4 @@ pages:
   - echo "Nothing to do..."
   artifacts:
     paths:
-    - css/*
-    - vendor/*
-    - index.html
+    - public/
